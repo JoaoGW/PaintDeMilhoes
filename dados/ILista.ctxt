@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ILista
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ interface\ ILista\ aqui.\r\n\ \r\n\ @author\ (seu\ nome\ aqui)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ data\ aqui)\r\n
+comment1.params=tipo\ x\ y
+comment1.target=void\ adicionarPontoLista(java.lang.String,\ double,\ double)
+comment2.params=tipo\ x1\ y1\ x2\ y2
+comment2.target=void\ adicionarRetaLista(java.lang.String,\ double,\ double,\ double,\ double)
+comment3.params=tipo\ x1\ y1\ x2\ y2\ x3\ y3
+comment3.target=void\ adicionarTrianguloLista(java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double)
+comment4.params=
+comment4.target=void\ limparLista()
+comment5.params=
+comment5.target=void\ removerUltimoInserido()
+comment6.params=
+comment6.target=int\ tamanhoLista()
+comment7.params=
+comment7.target=java.lang.String\ mostrarHistoricoLista()
+numComments=8

@@ -1,0 +1,1 @@
+RETA: 315,25 ; 563,207 --> PONTO: 141,107,3,java.awt.Color[r=0,g=0,b=0] --> PONTO: 541,241,22,java.awt.Color[r=255,g=102,b=102] --> PONTO: x(491), y(263), esp(9), cor(java.awt.Color[r=255,g=153,b=153]) --> 
