@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ListaLigada
+comment0.text=\r\n\ A\ estrutura\ de\ dados\ possui\ todos\ os\ m\u00E9todos\ que\ ajudar\u00E3o\ na\ constru\u00E7\u00E3o\ de\ dados\r\n\ salvos\ e\ dados\ j\u00E1\ existentes\ no\ momento\ do\ desenho\r\n\ \r\n\ @author\ Pedro\ Marques\ Prado,\ Giovana\ Akemi,\ Lucas\ Kenji\ Hayashi,\ Jo\u00E3o\ Pedro\ do\ Carmo\ Ribeiro\ \r\n\ @version\ 1.0\ 14/08/2023\r\n
+comment1.params=tipo\ x\ y\ esp\ cor
+comment1.target=void\ adicionarPontoLista(java.lang.String,\ double,\ double,\ int,\ java.awt.Color)
+comment1.text=\r\n\ M\u00E9todo\ adicionarPontoLista\r\n\ \r\n\ Adiciona\ um\ novo\ ponto\ a\ lista\ \r\n\r\n\ @param\ tipo\ Um\ par\u00E2metro\ do\ tipo\ string\ que\ diz\ qual\ o\ tipo\ de\ elemento\ que\ foi\ criado.\ Ex.\:\ Ponto,\ reta,\ triangulo,\ retangulo,\ etc\r\n\ @param\ x\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ X\r\n\ @param\ y\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ Y\r\n
+comment2.params=tipo\ x1\ y1\ x2\ y2\ esp\ cor
+comment2.target=void\ adicionarRetaLista(java.lang.String,\ double,\ double,\ double,\ double,\ int,\ java.awt.Color)
+comment2.text=\r\n\ M\u00E9todo\ adicionarRetaLista\r\n\ \r\n\ Adiciona\ uma\ nova\ reta\ a\ lista\ \r\n\r\n\ @param\ tipo\ Um\ par\u00E2metro\ do\ tipo\ string\ que\ diz\ qual\ o\ tipo\ de\ elemento\ que\ foi\ criado.\ Ex.\:\ Ponto,\ reta,\ triangulo,\ retangulo,\ etc\r\n\ @param\ x1\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ X1\r\n\ @param\ y1\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ Y1\r\n\ @param\ x2\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ X2\r\n\ @param\ y2\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ Y2\r\n
+comment3.params=tipo\ x1\ y1\ x2\ y2\ x3\ y3\ esp\ cor
+comment3.target=void\ adicionarTrianguloLista(java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double,\ int,\ java.awt.Color)
+comment3.text=\r\n\ M\u00E9todo\ adicionarTrianguloLista\r\n\ \r\n\ Adiciona\ um\ novo\ triangulo\ a\ lista\ \r\n\r\n\ @param\ tipo\ Um\ par\u00E2metro\ do\ tipo\ string\ que\ diz\ qual\ o\ tipo\ de\ elemento\ que\ foi\ criado.\ Ex.\:\ Ponto,\ reta,\ triangulo,\ retangulo,\ etc\r\n\ @param\ x1\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ X1\r\n\ @param\ y1\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ Y1\r\n\ @param\ x2\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ X2\r\n\ @param\ y2\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ Y2\r\n\ @param\ x3\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ X3\r\n\ @param\ y3\ Um\ par\u00E2metro\ do\ tipo\ double\ que\ armazena\ qual\ o\ valor\ do\ ponto\ Y3\r\n
+comment4.params=
+comment4.target=void\ limparLista()
+comment4.text=\r\n\ M\u00E9todo\ limparLista\r\n\ Limpa\ por\ completo\ todos\ os\ elementos\ da\ lista\ principal\r\n
+comment5.params=
+comment5.target=void\ removerUltimoInserido()
+comment5.text=\r\n\ M\u00E9todo\ removerUltimoInserido\r\n\ Remove\ o\ \u00FAltimo\ elemento\ que\ foi\ inserido\ na\ lista\ principal\r\n
+comment6.params=
+comment6.target=int\ tamanhoLista()
+comment6.text=\r\n\ M\u00E9todo\ tamanhoLista\r\n\ Devolve\ o\ tamanho\ total\ da\ lista\ principal\r\n\r\n\ @return\ O\ valor\ de\ retorno\ sera\ do\ tipo\ inteiro\ e\ conter\u00E1\ o\ tamanho\ total\ da\ lista\ principal\r\n
+comment7.params=
+comment7.target=java.lang.String\ mostrarHistoricoLista()
+comment7.text=\r\n\ M\u00E9todo\ mostrarHistoricoLista\r\n\ Mostra\ todos\ os\ elementos\ que\ foram\ adicionados\ a\ aquela\ lista\r\n\r\n\ @return\ O\ valor\ de\ retorno\ \u00E9\ do\ tipo\ string\ e\ contem\ todos\ os\ elementos\ em\ \r\n\ formato\ de\ texto\r\n
+numComments=8
