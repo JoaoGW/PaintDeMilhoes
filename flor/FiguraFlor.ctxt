@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FiguraFlor
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ FiguraCirculos\ aqui.\r\n\ \r\n\ @author\ Pedro\ Marques\ Prado,\ Giovana\ Akemi,\ Lucas\ Kenji\ Hayashi,\ Jo\u00E3o\ Pedro\ do\ Carmo\ Ribeiro\ \r\n\ @version\ 1.0\ 14/08/2023\r\n
+comment1.params=g\ x\ y\ xc\ yc\ nome\ esp\ cor
+comment1.target=void\ desenharFlor(java.awt.Graphics,\ int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+numComments=2
